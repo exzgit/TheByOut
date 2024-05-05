@@ -38,4 +38,5 @@ Selamatkan dunia yang terdistorsi dalam "The By Out" dan temukan rahasia di bali
 ## Storyline
 - **Story 1:**
 
-Licensi
+## License
+[MIT License](https://github.com/exzgit/TheByOut/blob/main/License.txt)
